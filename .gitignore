@@ -1,0 +1,5 @@
+*.pkl
+*.wav
+*.m4a
+__pycache__/
+*.csv
